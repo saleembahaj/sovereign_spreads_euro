@@ -1,8 +1,3 @@
----
-layout: default
-title: "Sovereign spreads in the Euro area"
-description: "Download the dataset and view figures that use it"
----
 
 # Sovereign Spreads in the Euro Area: Cross Border Transmission and Macroeconomic Implications
 
