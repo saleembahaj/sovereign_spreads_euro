@@ -1,7 +1,6 @@
-title: Sovereign spreads in the Euro area: Cross border transmission and macroeconomic implications
-description: Download the dataset and view figures that use it
-baseurl: "/sovereign_spreads_euro" 
+title: "Sovereign spreads in the Euro area: Cross border transmission and macroeconomic implications"
+description: "Download the dataset and view figures that use it"
+baseurl: "/sovereign_spreads_euro"
 url: "https://ucznwuh.github.io"
 github_username: ucznwuh
-
 theme: jekyll-theme-cayman
