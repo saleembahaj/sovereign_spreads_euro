@@ -9,6 +9,7 @@ Large movements in sovereign spreads were at the heart of the euro crisis. This 
 [Sovereign Spreads in the Euro Area](https://www.sciencedirect.com/science/article/pii/S0304393219300066) Previously circulated under the title “Systemic Sovereign Risk: Macroeconomic Implications in the Euro Area”. 
 
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
+- Acknowledgements: Aidan Saggers and Sian Besley provided able research assistance
 
 ---
 # Full Dataset
