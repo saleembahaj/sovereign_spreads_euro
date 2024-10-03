@@ -9,11 +9,7 @@ Large movements in sovereign spreads were at the heart of the euro crisis. This 
 [Sovereign Spreads in the Euro Area](https://www.sciencedirect.com/science/article/pii/S0304393219300066) Previously circulated under the title “Systemic Sovereign Risk: Macroeconomic Implications in the Euro Area”. 
 
 - [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home)
-- Acknowledgements:
-  - I am grateful to the editor, Ricardo Reis, and three anonymous referees for comments that greatly improved this paper. I would like to thank Ambrogio Cesa-Bianchi, James Cloyne, Giancarlo Corsetti, Chryssi Giannitsarou, Marek Jarocinski, Alex Kohlhas, John Lewis, Silvia MirandaAgrippinno, Michele Piffer, Gabor Pinter, Morten Ravn, Donald Robertson, Paulo Surico, Steve Theile, and Stephen Wright for helpful comments and advice.
-  - I also thank conference and seminar participants at the Bank of England, the Federal Reserve Board of Governors, Johns Hopkins SAIS, the University of Mannheim, the Cambridge macroeconomics workshop, the EDGE Jamboree, the 7th Rimini Bayesian Econometrics Workshop, the 2014 Econometric Society Winter Meetings and Goldman Sachs for their attention and feedback. I am grateful to the Oesterreichische Nationalbank for awarding this paper with the 2014 Klaus Liebscher award. I would like to acknowledge the Cambridge Endowment for Research in Finance, the Economic and Social Research Council and the Royal Economic Society for financial support.
-  - The views expressed here are those of the author and do not necessarily reflect those of the Bank of England, the MPC, the FPC, or the PRC. This work was produced as part of my PhD thesis at the University of Cambridge and not as part of my duties at the Bank of England.
-  - Aidan Saggers and Sian Besley provided able research assistance
+
 
 ---
 # Full Dataset
