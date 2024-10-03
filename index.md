@@ -43,4 +43,8 @@ Below are some key figures visualizing the dataset:
 - ![Fig. 1: cumulative reaction to foreign events](./Fig1.jpg)
 - ![Fig.7a: historical decomposition](./fig7a.jpg)
 
+---
+# Usage
+Please cite if use, and e-mail the authors with suggested corrections.
+
 
