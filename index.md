@@ -37,6 +37,9 @@ Large movements in sovereign spreads were at the heart of the euro crisis. This 
 # Figures
 
 Below are some key figures visualizing the dataset:
+
 ---
+- [Fig. 1: cumulative reaction to foreign events](./Fig1.jpg)
+- [Fig.7a: historical decomposition](./fig7a.jpg)
 
 
